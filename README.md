@@ -1,4 +1,4 @@
-# hackerrank_solutions
+# HackerRank solutions for Python Preparation set
 
 A collection of solutions of questions for HackerRank python preparation set 
 
