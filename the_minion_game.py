@@ -1,6 +1,3 @@
-import sunau
-
-
 def minion_game(string):
     string = string.upper()
     stuart_score, kevin_score = 0,0
